@@ -1,4 +1,10 @@
 .header a {
     text-decoration: none;
     padding: 10px 20px;
+    font-weight: bold;
+}
+
+.active {
+    color: white;
+    background-color: cornflowerblue;
 }
