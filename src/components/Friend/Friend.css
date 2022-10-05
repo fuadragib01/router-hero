@@ -1,0 +1,11 @@
+.fnd-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.friend {
+    border: 2px solid #ddd;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 15px;
+}
